@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-I am currently Final year student in GGSIPU University pursuing my B.tech in Computer science.<br>Aspiring Software Engineer.
+I am a graduate Computer Science student from GGSIPU University pursuing my B.tech in Computer science.<br>Aspiring Software Engineer.
+You can check out my portfolio (https://anujkumar7.github.io/Anuj-Portfolio/)
 
 
 ## 🌐 Socials:
